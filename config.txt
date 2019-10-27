@@ -1,0 +1,8 @@
+[Bot]
+usernames = Username
+password = Password
+language = tr
+message = Message
+keyword = Keyword
+proxies = false
+apikey = 
